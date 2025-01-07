@@ -92,8 +92,6 @@ apt install zabbix-agent
 systemctl restart zabbix-agent
 systemctl enable zabbix-agent
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
 
 
 ---
